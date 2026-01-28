@@ -17,13 +17,13 @@ Contains results related to the automated irrigation system:
 - Pump ON/OFF validation
 - Water consumption comparison
 
-### screenshots/
+### screenshots and results/
 Screenshots of:
 - Streamlit disease prediction interface
 - IoT web dashboard
 - System in operation
 
 ## Summary
-- Plant disease detection accuracy: ~94%
+- Plant disease detection accuracy: ~94.4%
 - Water usage reduction: ~28%
 - Automated irrigation logic validated through test cases
